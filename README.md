@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Recursos Academicos](https://recursosacademicos.com/)
 
-- 💬 Ask me about **Angular, Laravel, Php, Dart, MySql, Ionic**
+- 💬 Ask me about **Angular, Laravel, Php, Dart, MySql, Ionic, JavaScript**
 
 - 📫 How to reach me **roman_madrigal88@hotmail.com**
 
