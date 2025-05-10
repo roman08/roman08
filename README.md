@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://ibb.co/YT170NSZ" alt="Román Madrigal Banner" width="100%" />
+  <img src="https://i.ibb.co/x8BSF2bH/Chat-GPT-Image-9-may-2025-06-51-57-p-m.png" alt="Román Madrigal Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Román Madrigal</h1>
 <h3 align="center">⚙️ Desarrollador Fullstack enfocado en Rust, React y Docker</h3>
