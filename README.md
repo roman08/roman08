@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Román Madrigal Banner" width="100%" />
+  <img src="https://ibb.co/YT170NSZ" alt="Román Madrigal Banner" width="100%" />
 </p>
 
 <h1 align="center">Román Madrigal</h1>
