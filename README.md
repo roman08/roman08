@@ -27,9 +27,9 @@ Soy un desarrollador fullstack con base en México, actualmente trabajando en so
 
 ### 🏆 Logros destacados
 
-- 🧠 Finalista en hackathons de innovación tecnológica (2023-2024)  
-- 🛠️ Lead developer en múltiples soluciones SaaS  
-- 🌐 Publicación de librerías y módulos en Rust y JavaScript
+   - 💼 Desarrollo de software personalizado para el sector turístico utilizando Rust y React
+   - 🛠️ Participación en la creación de aplicaciones web eficientes y escalables
+   - 🌱 Aprendizaje continuo en tecnologías modernas como Docker, TypeScript y Rust
 
 ---
 
